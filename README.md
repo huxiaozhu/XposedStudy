@@ -29,3 +29,5 @@ dependencies {
 4.创建类实现IXposedHookLoadPackage来hook方法（或者其他操作）  
 5.在assets中创建xposed_init文件，在文件中指定该类的包名路径
 
+## 关于Xposed API（图片私人所有，使用需要得到本人同意），更多资料请前往[Xposed](https://github.com/rovo89/XposedBridge/wiki/Development-tutorial)
+![图片私人所有，使用需要得到本人同意](https://github.com/huxiaozhu/XposedStudy/blob/master/pic/Xposed.png)
